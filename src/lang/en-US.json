@@ -1,0 +1,13 @@
+{
+    "navHome": "Home",
+    "navAbout": "About",
+    "navTechnologies": "Technologies",
+    "navProjects": "Projects",
+    "navPersonalContacts": "Contact",
+
+    "mainMessageHello": "Hello",
+    "mainName": "My name is",
+    "mainUserName" : "{name}",
+    "mainProfession": "I am a web developer"
+    
+}

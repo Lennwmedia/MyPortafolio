@@ -1,0 +1,13 @@
+ {
+    "navHome": "Hogar",
+    "navAbout": "Acerca de",
+    "navTechnologies": "Tecnologías",
+    "navProjects": "Proyectos",
+    "navPersonalContacts": "Contacto",
+
+    "mainMessageHello": "Hola",
+    "mainName": "Mi nombre es",
+    "mainUserName" : "{name}",
+    "mainProfession": "Soy desarrollador web"
+    
+}
